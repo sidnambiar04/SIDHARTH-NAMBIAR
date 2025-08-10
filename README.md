@@ -17,9 +17,9 @@ Consistent coding, clean commits, and continuous learning — that’s my mantra
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/SIDHARTH-NAMBIAR)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharth-nambiar-595586284)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sidhnambi05@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/sidnambiar04)  
 
 ---
 ### 🛠️ Tech Stack
@@ -46,10 +46,8 @@ Consistent coding, clean commits, and continuous learning — that’s my mantra
 
 ---
 
-
-## 📊 GitHub Stats
-![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIDHARTH-NAMBIAR&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDHARTH-NAMBIAR&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidnambiar04&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidnambiar04&layout=compact&theme=radical)
 
 ---
 
